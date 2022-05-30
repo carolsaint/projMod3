@@ -1,1 +1,1 @@
-# projMod3
+***Procurar fazer mais de uma query para cada pergunta, se possivel***
