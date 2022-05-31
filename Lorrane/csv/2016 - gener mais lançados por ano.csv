@@ -1,0 +1,546 @@
+genres,release_date,count(genres)
+Action;Indie,2016-03-25,343
+Adventure;Indie,2016-02-29,215
+Action;Adventure;Indie,2016-10-04,215
+Casual;Indie,2016-10-24,213
+Action;Casual;Indie,2016-07-19,167
+Adventure;Casual;Indie,2016-01-27,126
+Indie,2016-06-13,125
+Adventure;Casual,2016-06-22,106
+Action,2016-09-13,104
+Adventure,2016-01-19,93
+Casual,2016-03-11,93
+Action;Adventure;Casual;Indie,2016-04-20,85
+Casual;Indie;Strategy,2016-07-21,80
+Adventure;Indie;RPG,2016-03-23,74
+Strategy,2016-01-20,66
+Simulation,2016-01-08,56
+Action;Adventure;Indie;RPG,2016-10-17,54
+Indie;Strategy,2016-07-28,51
+Casual;Indie;Simulation,2016-07-28,47
+Action;Adventure,2016-11-03,46
+"Action;Indie;Early Access",2016-08-16,46
+Indie;Simulation;Strategy,2016-10-04,42
+Indie;Simulation,2016-08-22,37
+RPG,2016-03-08,34
+Action;Indie;RPG,2016-02-22,33
+Action;Indie;Strategy,2016-12-14,32
+Casual;Simulation,2016-01-20,32
+Simulation;Strategy,2016-05-09,30
+Action;Casual;Indie;Strategy,2016-07-14,30
+Action;Indie;Simulation,2016-11-01,24
+Indie;RPG;Strategy,2016-04-19,23
+Action;Casual;Indie;Simulation,2016-02-23,23
+Adventure;Indie;Simulation,2016-06-07,21
+Indie;RPG,2016-06-23,21
+Adventure;Casual;Indie;RPG,2016-04-22,20
+Casual;Indie;Simulation;Strategy,2016-09-13,20
+Adventure;Indie;Strategy,2016-06-13,19
+Casual;Strategy,2016-05-26,19
+"Action;Adventure;Indie;Early Access",2016-03-25,19
+Action;Casual,2016-06-15,18
+Action;Adventure;Casual;Indie;RPG,2016-01-13,16
+Sports,2016-03-08,16
+Action;Adventure;Casual,2016-01-20,15
+Action;Adventure;Casual;Indie;Strategy,2016-04-22,15
+Action;Adventure;Indie;RPG;Strategy,2016-06-07,14
+"Action;Free to Play;Indie",2016-09-10,14
+Action;Simulation,2016-04-13,14
+Action;RPG,2016-11-03,13
+Action;Indie;Racing,2016-03-28,13
+Action;Indie;Sports,2016-07-12,12
+Action;Strategy,2016-04-18,12
+"Action;Casual;Indie;Early Access",2016-04-28,12
+Simulation;Sports,2016-01-14,12
+"Casual;Free to Play;Indie",2016-09-09,12
+"Action;Adventure;Indie;RPG;Early Access",2016-01-15,12
+Action;Adventure;Indie;Simulation,2016-11-18,12
+Action;Adventure;Casual;Indie;Simulation,2016-08-02,12
+Casual;Indie;Sports,2016-06-01,12
+"Indie;Simulation;Early Access",2016-04-11,12
+Action;Adventure;Indie;Strategy,2016-07-15,11
+Adventure;Indie;RPG;Strategy,2016-09-09,11
+"Action;Indie;Simulation;Early Access",2016-06-23,11
+RPG;Strategy,2016-08-30,11
+"Adventure;Free to Play;Indie",2016-07-25,11
+Racing;Simulation;Sports,2016-01-29,10
+Action;Adventure;RPG,2016-09-08,10
+Adventure;Casual;Indie;Simulation,2016-03-02,10
+"Free to Play;Indie;Strategy",2016-08-23,9
+"Simulation;Early Access",2016-05-16,9
+"Free to Play",2016-01-15,9
+Action;Casual;Indie;Simulation;Strategy,2016-04-04,9
+Utilities,2016-03-31,9
+"Casual;Indie;Early Access",2016-05-18,9
+Action;Adventure;Simulation,2016-08-02,9
+Casual;Simulation;Strategy,2016-03-03,9
+"Free to Play;Indie",2016-05-31,8
+Indie;RPG;Simulation;Strategy,2016-02-26,8
+Adventure;RPG,2016-11-10,8
+"Action;Early Access",2016-10-21,8
+"Indie;Early Access",2016-04-13,8
+Racing,2016-11-02,8
+"Indie;Simulation;Strategy;Early Access",2016-03-31,8
+"Action;Adventure;Casual;Indie;Early Access",2016-04-19,8
+"Indie;Strategy;Early Access",2016-04-28,7
+Casual;Indie;Racing,2016-05-12,7
+Action;Indie;RPG;Strategy,2016-01-12,7
+"Action;Indie;RPG;Early Access",2016-04-05,7
+"Casual;Indie;Simulation;Early Access",2016-03-23,7
+"Casual;Free to Play;Indie;Simulation",2016-01-08,7
+"Adventure;Casual;Free to Play",2016-03-14,7
+"Action;Adventure;Free to Play;Indie",2016-02-15,7
+"Adventure;Indie;Early Access",2016-02-11,7
+Action;Casual;Sports,2016-04-28,7
+Indie;Simulation;Sports;Strategy,2016-05-03,6
+Action;Indie;Simulation;Strategy,2016-01-26,6
+Casual;Indie;Simulation;Sports;Strategy,2016-09-09,6
+Adventure;Casual;Simulation,2016-11-15,6
+"Action;Indie;Racing;Early Access",2016-09-22,6
+"Action;Adventure;Indie;Simulation;Early Access",2016-08-16,6
+Adventure;Indie;RPG;Simulation,2016-05-20,6
+Action;Adventure;Indie;RPG;Simulation,2016-05-03,6
+"Action;Indie;Strategy;Early Access",2016-04-29,6
+Casual;Indie;RPG,2016-06-03,6
+Indie;Simulation;Sports,2016-04-19,6
+Casual;Indie;Simulation;Sports,2016-04-28,6
+"Adventure;Casual;Free to Play;Indie",2016-04-21,6
+Casual;Indie;RPG;Simulation,2016-01-26,6
+Casual;Sports,2016-04-05,6
+Adventure;Casual;Indie;RPG;Strategy,2016-07-21,6
+Casual;Indie;RPG;Strategy,2016-03-16,6
+Adventure;Indie;RPG;Simulation;Strategy,2016-02-12,5
+Action;Adventure;Indie;Racing,2016-03-03,5
+"Action;Free to Play",2016-12-16,5
+Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,2016-11-04,5
+Adventure;Strategy,2016-05-18,5
+"Action;Casual;Free to Play;Indie",2016-07-01,5
+"Free to Play;Massively Multiplayer;RPG",2016-03-28,5
+"Sexual Content;Nudity;Casual;Indie",2016-04-14,5
+"Action;Adventure;Free to Play;Massively Multiplayer;RPG",2016-01-25,5
+"Free to Play;Indie;Simulation",2016-06-06,5
+Action;Casual;Indie;RPG,2016-09-14,5
+Indie;RPG;Simulation,2016-06-06,5
+Violent;Action;Indie,2016-05-31,5
+"Adventure;Casual;Indie;Early Access",2016-04-01,5
+"Adventure;Free to Play;Indie;RPG",2016-04-04,5
+Adventure;Casual;Indie;Strategy,2016-12-01,5
+"Casual;Free to Play;Indie;Strategy",2016-07-18,5
+Action;Sports,2016-03-31,5
+Action;Casual;Indie;Racing,2016-04-14,5
+"Casual;Free to Play",2016-05-02,5
+Violent;Gore;Action;Indie,2016-07-26,5
+"Action;Casual;Free to Play;Indie;Strategy",2016-07-08,4
+Indie;Racing,2016-03-10,4
+Action;Adventure;Indie;Simulation;Strategy,2016-03-04,4
+"Casual;Indie;Simulation;Strategy;Early Access",2016-12-05,4
+Adventure;Casual;Indie;RPG;Simulation,2016-03-09,4
+"Adventure;Free to Play;Massively Multiplayer;RPG",2016-11-29,4
+Action;Casual;Indie;Racing;Simulation;Sports,2016-03-07,4
+Indie;Sports,2016-04-01,4
+Action;Casual;Simulation,2016-08-08,4
+Action;Indie;Simulation;Sports,2016-01-26,4
+Action;Adventure;Casual;Indie;RPG;Strategy,2016-01-08,4
+"Action;Indie;Simulation;Strategy;Early Access",2016-03-18,4
+Adventure;Simulation,2016-02-26,4
+Action;Adventure;Strategy,2016-05-17,4
+"Action;Indie;Simulation;Sports;Early Access",2016-06-14,4
+"Action;Casual;Indie;Sports;Early Access",2016-08-04,4
+Action;Casual;Indie;Sports,2016-07-07,4
+Casual;Simulation;Sports;Strategy,2016-08-09,4
+"Sports;Early Access",2016-09-17,4
+"Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access",2016-11-03,3
+Simulation;Sports;Strategy,2016-03-04,3
+"Action;Adventure;Indie;RPG;Simulation;Early Access",2016-04-05,3
+Action;Simulation;Strategy,2016-08-10,3
+Adventure;Casual;Indie;Simulation;Strategy,2016-02-26,3
+"Free to Play;Indie;Massively Multiplayer;RPG",2016-05-06,3
+"Action;Adventure;Casual;Indie;RPG;Strategy;Early Access",2016-01-08,3
+"Free to Play;Massively Multiplayer;Simulation;Strategy",2016-12-12,3
+"Casual;Indie;Sports;Early Access",2016-03-30,3
+"Indie;RPG;Simulation;Strategy;Early Access",2016-02-29,3
+Action;Adventure;Casual;Indie;Racing;Simulation,2016-05-26,3
+"Free to Play;Indie;Massively Multiplayer;RPG;Strategy",2016-06-08,3
+Violent;Action;Adventure;Indie,2016-07-07,3
+"Action;Indie;Sports;Early Access",2016-04-04,3
+Action;Indie;Racing;Simulation;Sports,2016-03-29,3
+"Casual;Indie;Strategy;Early Access",2016-02-22,3
+Adventure;Casual;Strategy,2016-01-27,3
+"Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Strategy",2016-02-24,3
+"Adventure;Simulation;Early Access",2016-12-05,3
+"Action;Casual;Indie;Simulation;Early Access",2016-03-04,3
+Violent;Gore;Adventure;Casual;Indie,2016-06-01,3
+Casual;RPG;Simulation,2016-04-01,3
+"Free to Play;Strategy;Early Access",2016-11-10,3
+Casual;Indie;Racing;Simulation,2016-06-03,3
+"Action;Strategy;Early Access",2016-07-28,3
+Action;Casual;Simulation;Sports,2016-08-26,3
+"Sexual Content;Nudity;Adventure;Casual",2016-06-22,3
+Casual;Simulation;Sports,2016-09-22,3
+"Action;Adventure;Early Access",2016-06-17,3
+"Casual;Early Access",2016-08-20,3
+Action;Casual;Indie;Simulation;Sports,2016-07-26,3
+"Action;Casual;Indie;Simulation;Sports;Early Access",2016-07-26,3
+Gore;Action;Adventure;Indie,2016-09-05,3
+Violent;Gore;Action;Adventure;Indie,2016-11-11,3
+"Violent;Action;Indie;Early Access",2016-10-06,3
+Action;Adventure;Casual;Indie;Simulation;Strategy,2016-02-12,2
+"Action;Adventure;RPG;Early Access",2016-04-05,2
+"Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access",2016-06-09,2
+"Adventure;Indie;Simulation;Early Access",2016-03-11,2
+"Action;Adventure;Indie;Simulation;Strategy;Early Access",2016-06-06,2
+Adventure;Indie;Simulation;Strategy,2016-09-30,2
+"Action;Free to Play;Indie;Early Access",2016-03-24,2
+"Indie;Massively Multiplayer;RPG",2016-09-12,2
+"Adventure;Indie;RPG;Simulation;Early Access",2016-04-22,2
+RPG;Simulation;Strategy,2016-08-05,2
+"Action;Adventure;Casual;Indie;Simulation;Strategy;Early Access",2016-06-01,2
+Action;Racing,2016-02-16,2
+"Action;Casual;Free to Play;Indie;Early Access",2016-09-30,2
+"Violent;Gore;Action;Adventure;Indie;Early Access",2016-10-27,2
+Indie;Racing;Simulation;Sports,2016-01-25,2
+"Free to Play;Strategy",2016-10-04,2
+Action;Adventure;Indie;Racing;Simulation;Sports,2016-03-25,2
+"Casual;Free to Play;Massively Multiplayer;Simulation",2016-03-31,2
+"Adventure;Free to Play;RPG;Strategy",2016-04-19,2
+"Indie;RPG;Strategy;Early Access",2016-02-26,2
+"Action;Casual;Free to Play;Indie;Simulation;Strategy",2016-01-19,2
+Violent;Action;Adventure;Indie;Simulation,2016-01-20,2
+"Casual;Indie;Simulation;Sports;Early Access",2016-01-18,2
+Action;Racing;Sports,2016-04-04,2
+"Action;Free to Play;Indie;Massively Multiplayer",2016-05-10,2
+"Action;Indie;Massively Multiplayer;RPG;Early Access",2016-01-06,2
+"Action;Adventure;Indie;RPG;Strategy;Early Access",2016-08-28,2
+Gore;Indie,2016-01-26,2
+"Action;Indie;Massively Multiplayer",2016-04-22,2
+"Free to Play;Indie;Massively Multiplayer;Strategy",2016-02-01,2
+"Action;Adventure;Casual;Indie;RPG;Early Access",2016-01-15,2
+"Action;Massively Multiplayer;Simulation",2016-01-14,2
+"Action;Casual;Free to Play",2016-05-31,2
+"Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation",2016-01-14,2
+Casual;Racing,2016-01-12,2
+Action;Casual;Strategy,2016-08-04,2
+"Action;Adventure;Casual;Indie;Strategy;Early Access",2016-02-19,2
+"Free to Play;Massively Multiplayer;Strategy",2016-08-10,2
+Action;Adventure;Casual;Strategy,2016-08-10,2
+"Casual;Free to Play;Simulation",2016-04-14,2
+"Action;Free to Play;Massively Multiplayer",2016-11-09,2
+"Action;Free to Play;Early Access",2016-07-13,2
+"Action;Free to Play;Strategy",2016-04-20,2
+Action;Casual;Indie;Racing;Sports,2016-08-16,2
+"Audio Production;Utilities",2016-03-13,2
+Casual;RPG,2016-04-29,2
+"Casual;Indie;RPG;Early Access",2016-06-06,2
+"Free to Play;RPG",2016-03-03,2
+"Utilities;Video Production;Early Access",2016-04-03,2
+"Action;Adventure;Indie;Massively Multiplayer;Simulation",2016-05-12,2
+"Action;Indie;Massively Multiplayer;Early Access",2016-04-08,2
+"Action;Free to Play;Indie;Simulation",2016-04-05,2
+"Strategy;Early Access",2016-04-05,2
+"Indie;Simulation;Sports;Strategy;Early Access",2016-04-27,2
+"Adventure;Casual;Indie;Strategy;Early Access",2016-07-07,2
+Action;Adventure;Casual;Indie;Racing,2016-11-18,2
+"Action;Adventure;Casual;Free to Play;Indie",2016-04-26,2
+"Action;Casual;Indie;Racing;Early Access",2016-09-25,2
+Action;Indie;Racing;Sports,2016-05-31,2
+"Adventure;Free to Play",2016-05-26,2
+Action;Adventure;Casual;Indie;RPG;Simulation,2016-06-10,2
+Action;Adventure;Indie;RPG;Simulation;Strategy,2016-11-18,2
+Indie;Racing;Simulation,2016-11-03,2
+"Action;Sports;Early Access",2016-07-01,2
+"Action;Adventure;Massively Multiplayer",2016-09-16,2
+"Casual;Free to Play;Indie;Simulation;Strategy",2016-07-26,2
+"Design & Illustration;Utilities",2016-07-20,2
+Racing;Simulation,2016-08-05,2
+"Adventure;Casual;Free to Play;Indie;Simulation",2016-08-09,2
+Action;Adventure;Casual;Simulation,2016-07-14,2
+"Action;Casual;Free to Play;Indie;Sports",2016-07-25,2
+Violent;Adventure;Indie,2016-08-19,2
+Nudity;Adventure,2016-12-15,2
+Violent;Gore;Adventure;Indie,2016-10-17,2
+"Adventure;Free to Play;RPG",2016-08-22,2
+Education,2016-12-07,2
+Action;RPG;Simulation,2016-11-02,2
+"Free to Play;Simulation",2016-11-04,2
+"Simulation;Sports;Early Access",2016-12-07,2
+"Casual;Simulation;Early Access",2016-11-11,2
+"Adventure;Casual;Free to Play;Massively Multiplayer;RPG",2016-02-11,1
+Violent;Gore;Action;Indie;RPG,2016-05-17,1
+Indie;Racing;RPG;Sports,2016-09-22,1
+"Action;Adventure;Indie;Massively Multiplayer;Simulation;Strategy;Early Access",2016-01-21,1
+"Design & Illustration",2016-04-05,1
+Action;Indie;RPG;Simulation,2016-10-24,1
+"Action;Adventure;Casual;Massively Multiplayer;RPG;Early Access",2016-08-11,1
+"Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Early Access",2016-07-06,1
+"Free to Play;Massively Multiplayer;RPG;Early Access",2016-04-16,1
+"Indie;RPG;Early Access",2016-03-18,1
+"Indie;Massively Multiplayer;Simulation;Strategy",2016-04-11,1
+"Action;Adventure;Free to Play;Indie;Early Access",2016-07-20,1
+"Free to Play;Indie;Racing;Simulation;Sports;Early Access",2016-03-04,1
+"Adventure;Casual;Free to Play;Simulation",2016-11-16,1
+"Action;Adventure;Indie;Strategy;Early Access",2016-07-18,1
+"Casual;Free to Play;Indie;Strategy;Early Access",2016-03-29,1
+"Action;Free to Play;Indie;Massively Multiplayer;Simulation",2016-02-01,1
+"Action;Casual;Free to Play;Massively Multiplayer",2016-01-13,1
+"Action;Adventure;Casual;Indie;Racing;Simulation;Early Access",2016-10-05,1
+Action;Casual;Racing,2016-04-19,1
+"Sexual Content;Nudity;Indie;RPG;Simulation;Strategy",2016-03-04,1
+Adventure;Indie;Racing,2016-01-29,1
+"Sexual Content;Nudity;Violent;Gore;Action;Adventure",2016-10-06,1
+Violent;Gore;Adventure;Indie;Simulation,2016-06-28,1
+Nudity;Violent;Gore;Action,2016-11-18,1
+"Animation & Modeling;Design & Illustration;Education",2016-05-25,1
+Action;Casual;Indie;Simulation;Sports;Strategy,2016-03-07,1
+Casual;Indie;Sports;Strategy,2016-03-30,1
+Action;Adventure;Indie;Racing;Sports;Strategy,2016-05-27,1
+"Massively Multiplayer;Racing",2016-03-24,1
+"Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access",2016-04-09,1
+Nudity;Violent;Gore;Action;Casual;Indie,2016-11-14,1
+"Sexual Content;Nudity;Action;Casual;Free to Play;Indie;Simulation",2016-06-16,1
+"Action;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access",2016-05-30,1
+"Free to Play;Massively Multiplayer;Early Access",2016-11-09,1
+"Indie;RPG;Simulation;Early Access",2016-02-11,1
+"Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy",2016-06-07,1
+"Action;Casual;Free to Play;Indie;RPG;Sports;Early Access",2016-07-14,1
+"Action;Indie;RPG;Simulation;Early Access",2016-04-10,1
+"Action;Adventure;Casual;Indie;Massively Multiplayer;Early Access",2016-04-08,1
+Action;Adventure;Indie;RPG;Simulation;Sports,2016-08-22,1
+"Free to Play;Indie;Simulation;Early Access",2016-03-25,1
+"Violent;Gore;Action;Indie;RPG;Simulation;Early Access",2016-12-22,1
+Action;Adventure;Casual;Racing;RPG;Sports;Strategy,2016-03-24,1
+"Casual;Free to Play;Indie;RPG;Simulation;Strategy",2016-11-30,1
+"Sexual Content;Nudity;Adventure;Indie;RPG",2016-06-03,1
+"Indie;Racing;Sports;Strategy;Early Access",2016-10-24,1
+"Violent;Gore;Action;Free to Play",2016-12-20,1
+"Violent;Gore;Action;Adventure;Indie;RPG;Early Access",2016-11-29,1
+"Free to Play;Indie;RPG;Strategy;Early Access",2016-03-07,1
+"Adventure;Indie;Racing;Early Access",2016-05-12,1
+"Education;Software Training",2016-03-07,1
+Racing;Simulation;Sports;Strategy,2016-11-09,1
+"Casual;Free to Play;Massively Multiplayer;Strategy",2016-09-07,1
+"Free to Play;Indie;Massively Multiplayer;RPG;Strategy;Early Access",2016-02-12,1
+"Action;Free to Play;Indie;Strategy",2016-11-15,1
+"Action;Adventure;Massively Multiplayer;Simulation;Early Access",2016-06-30,1
+Adventure;Casual;Simulation;Strategy,2016-02-09,1
+"Violent;Action;Massively Multiplayer;Simulation;Sports",2016-12-16,1
+Nudity;Violent;Gore;Adventure;Indie,2016-03-24,1
+"Free to Play;Indie;RPG;Simulation",2016-03-04,1
+"Free to Play;Massively Multiplayer;RPG;Strategy;Early Access",2016-12-12,1
+"Sexual Content;Nudity;Violent;Gore;Adventure;Free to Play;Indie;RPG",2016-04-01,1
+"Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access",2016-10-19,1
+"Adventure;RPG;Strategy;Early Access",2016-01-08,1
+"Audio Production",2016-01-26,1
+"Sexual Content;Nudity;Violent;Casual;Indie",2016-03-01,1
+"Sexual Content;Nudity;Adventure;Indie",2016-02-26,1
+"Casual;Free to Play;Indie;RPG",2016-03-30,1
+"Action;RPG;Early Access",2016-01-29,1
+"Sexual Content;Nudity;Indie;Strategy",2016-03-09,1
+Action;Adventure;Racing;RPG;Simulation,2016-10-14,1
+"Action;Indie;RPG;Strategy;Early Access",2016-02-10,1
+Action;RPG;Strategy,2016-11-10,1
+"Animation & Modeling;Design & Illustration;Video Production",2016-02-02,1
+"Free to Play;Indie;Massively Multiplayer;Simulation;Sports;Strategy",2016-02-09,1
+Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports,2016-02-18,1
+"Animation & Modeling;Audio Production;Software Training;Utilities;Video Production",2016-04-29,1
+"Action;Casual;Free to Play;Indie;Racing;Simulation;Sports;Early Access",2016-03-02,1
+Casual;Indie;RPG;Simulation;Sports;Strategy,2016-02-25,1
+"Sexual Content;Violent;Adventure;Indie;Strategy",2016-08-02,1
+"Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development",2016-04-08,1
+"Action;Indie;Massively Multiplayer;Strategy",2016-03-17,1
+Action;Adventure;Indie;Sports,2016-04-20,1
+"Action;Casual;Free to Play;Indie;Simulation;Sports;Early Access",2016-06-16,1
+"Action;Simulation;Strategy;Early Access",2016-10-13,1
+"Nudity;Action;Indie;Early Access",2016-03-02,1
+Violent;Gore;Action;Adventure;Casual;Indie,2016-07-12,1
+"Indie;Massively Multiplayer;RPG;Early Access",2016-03-06,1
+"Casual;Free to Play;Strategy",2016-05-19,1
+"Free to Play;Indie;RPG",2016-10-25,1
+"Adventure;Free to Play;Indie;RPG;Early Access",2016-04-01,1
+Action;Adventure;Casual;Indie;Racing;Sports,2016-06-30,1
+"Casual;Free to Play;Indie;Early Access",2016-03-30,1
+"Casual;Free to Play;Sports",2016-03-02,1
+"Free to Play;RPG;Strategy",2016-08-15,1
+Action;Racing;Simulation,2016-10-21,1
+Casual;Indie;Racing;Sports,2016-12-21,1
+"Action;Adventure;Casual;Free to Play;Indie;Simulation",2016-04-05,1
+"Adventure;Free to Play;Simulation",2016-04-05,1
+Indie;Racing;Sports,2016-08-10,1
+"Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy",2016-11-15,1
+"Action;Adventure;Casual;Indie;Simulation;Early Access",2016-11-18,1
+"Action;Adventure;Casual;Massively Multiplayer",2016-10-27,1
+Action;Simulation;Sports;Strategy,2016-10-25,1
+Action;Indie;Sports;Strategy,2016-04-29,1
+"Action;Simulation;Early Access",2016-04-05,1
+"Free to Play;Racing;Simulation;Sports;Early Access",2016-10-14,1
+"Animation & Modeling;Audio Production;Design & Illustration;Education;Early Access",2016-07-04,1
+"Design & Illustration;Photo Editing",2016-05-22,1
+"Animation & Modeling;Early Access",2016-05-09,1
+"Sexual Content;Adventure;Casual",2016-05-17,1
+"Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Simulation",2016-04-15,1
+"Racing;RPG;Simulation;Early Access",2016-05-25,1
+"Action;Casual;Indie;Racing;RPG;Simulation;Strategy;Early Access",2016-11-03,1
+"Free to Play;Indie;Racing;Simulation",2016-05-23,1
+Action;Casual;Simulation;Strategy,2016-05-27,1
+"Casual;Free to Play;RPG",2016-05-10,1
+"Free to Play;Massively Multiplayer;RPG;Strategy",2016-05-06,1
+"Casual;Free to Play;Indie;Racing",2016-04-29,1
+"Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;Simulation;Sports;Early Access",2016-04-20,1
+"Casual;Free to Play;Indie;Simulation;Strategy;Early Access",2016-08-23,1
+Adventure;Casual;RPG;Strategy,2016-07-01,1
+"Action;Massively Multiplayer",2016-04-28,1
+"Indie;Massively Multiplayer;Strategy",2016-11-16,1
+Nudity;Violent;Adventure;Casual,2016-07-19,1
+Violent;Adventure;Casual,2016-12-15,1
+"Adventure;Indie;RPG;Strategy;Early Access",2016-09-22,1
+Action;Adventure;Casual;Indie;Racing;Simulation;Sports,2016-08-01,1
+Adventure;RPG;Strategy,2016-08-25,1
+"Audio Production;Early Access",2016-06-21,1
+"Action;Adventure;Casual;Indie;Sports;Early Access",2016-07-21,1
+Nudity;Action;Casual;Indie,2016-05-15,1
+Adventure;Casual;Indie;RPG;Simulation;Strategy,2016-06-02,1
+"Massively Multiplayer;Simulation;Sports;Early Access",2016-07-12,1
+"Adventure;Casual;Simulation;Early Access",2016-05-23,1
+"Indie;Massively Multiplayer;RPG;Simulation",2016-09-22,1
+"Action;Adventure;Casual;Free to Play;Massively Multiplayer;Sports;Early Access",2016-06-28,1
+"Adventure;Massively Multiplayer",2016-12-14,1
+"Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access",2016-06-15,1
+"Action;Indie;Massively Multiplayer;Simulation;Strategy;Early Access",2016-06-11,1
+"Casual;Free to Play;Simulation;Early Access",2016-08-09,1
+"Design & Illustration;Web Publishing",2016-09-07,1
+"Sexual Content;Nudity;Adventure;Simulation",2016-07-07,1
+"Sexual Content;Nudity;Violent;Gore;Indie;Simulation",2016-06-15,1
+"Violent;Gore;Indie;Early Access",2016-12-17,1
+"Action;Racing;Early Access",2016-11-15,1
+"Adventure;Indie;Massively Multiplayer",2016-10-26,1
+"Animation & Modeling;Utilities",2016-12-26,1
+Action;Racing;Simulation;Sports,2016-06-07,1
+"Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access",2016-11-18,1
+Casual;RPG;Simulation;Strategy,2016-12-06,1
+"Casual;Indie;Racing;Early Access",2016-06-30,1
+"Action;Free to Play;Indie;Strategy;Early Access",2016-12-02,1
+"Action;Adventure;Casual;Indie;Massively Multiplayer;Strategy",2016-07-05,1
+Adventure;Casual;Indie;Racing;Simulation;Sports,2016-06-16,1
+Violent;Gore;Action,2016-12-15,1
+"Action;Adventure;Indie;Sports;Early Access",2016-07-04,1
+"Action;Adventure;Casual;Indie;RPG;Simulation;Early Access",2016-12-18,1
+"Indie;Sports;Early Access",2016-08-24,1
+"Animation & Modeling;Design & Illustration;Utilities",2016-12-15,1
+Action;Adventure;Casual;Indie;Sports,2016-10-14,1
+"Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG",2016-07-07,1
+"Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy",2016-08-29,1
+Action;Indie;Racing;Simulation;Sports;Strategy,2016-07-15,1
+"Indie;Racing;Simulation;Sports;Early Access",2016-07-22,1
+"Sexual Content;Nudity;Action;Indie",2016-11-26,1
+"Action;Casual;Massively Multiplayer",2016-08-14,1
+"Education;Early Access",2016-09-26,1
+Action;Adventure;Casual;Racing,2016-07-28,1
+"Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy",2016-08-15,1
+"Design & Illustration;Utilities;Video Production",2016-07-26,1
+"Sexual Content;Adventure;Casual;Indie",2016-10-06,1
+"Violent;Gore;Adventure;Indie;RPG;Early Access",2016-10-31,1
+"Action;Free to Play;Racing;Sports",2016-09-27,1
+Adventure;Casual;Indie;Racing,2016-08-03,1
+"Free to Play;Indie;Sports;Strategy",2016-09-16,1
+"Action;Adventure;Free to Play;Indie;RPG",2016-10-03,1
+Action;Casual;RPG,2016-08-11,1
+"Sexual Content;Casual;Indie;Simulation",2016-12-05,1
+"Action;Casual;Simulation;Early Access",2016-08-15,1
+"Utilities;Early Access",2016-08-17,1
+"Action;Adventure;Free to Play;Indie;Simulation;Strategy",2016-08-24,1
+"Action;Adventure;Racing;Early Access",2016-08-22,1
+"Adventure;Casual;Early Access",2016-08-01,1
+"Action;Adventure;Free to Play;Indie;Massively Multiplayer",2016-10-07,1
+"Adventure;Casual;Indie;RPG;Strategy;Early Access",2016-08-22,1
+"Action;Adventure;Casual;Free to Play;Indie;Early Access",2016-09-29,1
+"Action;Casual;Strategy;Early Access",2016-10-06,1
+"Early Access",2016-08-15,1
+"Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy;Early Access",2016-08-25,1
+"Casual;RPG;Strategy;Early Access",2016-10-03,1
+"Adventure;Casual;RPG;Early Access",2016-09-26,1
+"Action;Adventure;Strategy;Early Access",2016-09-16,1
+"Indie;Racing;Simulation;Early Access",2016-10-24,1
+"Animation & Modeling;Design & Illustration;Utilities;Video Production;Early Access",2016-08-25,1
+Violent;Gore;Action;Indie;Simulation,2016-12-05,1
+"Racing;Simulation;Early Access",2016-10-25,1
+"Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing",2016-11-30,1
+"Casual;Free to Play;Indie;Simulation;Sports",2016-09-15,1
+Violent;Indie,2016-09-02,1
+"Action;Adventure;Indie;Massively Multiplayer;RPG",2016-09-13,1
+"Animation & Modeling;Design & Illustration;Utilities;Video Production",2016-09-19,1
+"Racing;Early Access",2016-09-15,1
+"Action;Indie;Racing;Sports;Early Access",2016-09-22,1
+Violent;Action;Adventure,2016-10-31,1
+Action;Indie;Simulation;Sports;Strategy,2016-09-23,1
+"Adventure;Casual;Free to Play;Indie;Early Access",2016-09-14,1
+Action;Casual;Simulation;Sports;Strategy,2016-11-25,1
+"Action;Adventure;Casual;RPG;Simulation;Strategy;Early Access",2016-09-30,1
+Violent;Action;Casual;Indie;Simulation;Strategy,2016-09-26,1
+"Animation & Modeling;Design & Illustration",2016-10-28,1
+"Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation;Strategy",2016-09-29,1
+"Action;Casual;Indie;Massively Multiplayer",2016-11-25,1
+"Nudity;Violent;Free to Play;Indie;RPG;Simulation;Strategy",2016-09-30,1
+"Violent;Gore;Action;Indie;RPG;Early Access",2016-12-09,1
+"Nudity;Casual;Free to Play",2016-12-15,1
+"Violent;Action;Casual;Indie;Strategy;Early Access",2016-10-03,1
+"Sexual Content;Nudity;Adventure;Casual;Indie;Simulation",2016-09-30,1
+Indie;Racing;Simulation;Strategy,2016-12-20,1
+"Free to Play;Simulation;Early Access",2016-11-03,1
+"Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG",2016-11-03,1
+Action;Adventure;Casual;Indie;RPG;Sports,2016-12-19,1
+"Action;Casual;Free to Play;Indie;RPG",2016-10-20,1
+"Free to Play;Massively Multiplayer;Racing",2016-10-18,1
+"Sexual Content;Nudity;Adventure;Casual;Indie",2016-10-20,1
+"Violent;Action;Casual;Indie;Simulation;Early Access",2016-11-17,1
+"Adventure;Free to Play;Indie;Massively Multiplayer;RPG",2016-11-14,1
+"Nudity;Violent;Action;Indie;Early Access",2016-11-09,1
+Nudity;Casual;Indie,2016-11-15,1
+"Violent;Gore;Action;Indie;Early Access",2016-10-28,1
+"Free to Play;Indie;Racing;Sports",2016-10-21,1
+"Casual;Free to Play;Massively Multiplayer;Simulation;Sports",2016-12-13,1
+"Sexual Content;Adventure;Indie",2016-12-03,1
+"Violent;Gore;Action;Adventure;Free to Play;Indie;RPG;Early Access",2016-10-20,1
+"Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;Early Access",2016-12-11,1
+"Casual;Indie;Massively Multiplayer;RPG;Early Access",2016-11-25,1
+"Adventure;Casual;Indie;Simulation;Early Access",2016-10-20,1
+"Utilities;Video Production",2016-11-03,1
+Violent;Action,2016-11-08,1
+"Sexual Content;Nudity;Casual;Indie;Simulation",2016-10-28,1
+"Indie;Racing;Sports;Early Access",2016-12-28,1
+"Violent;Action;Indie;Strategy;Early Access",2016-12-15,1
+"Action;Casual;Indie;Massively Multiplayer;RPG;Simulation",2016-11-04,1
+Action;Casual;Indie;Racing;Simulation,2016-11-18,1
+"Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Early Access",2016-11-15,1
+Gore;Action;Adventure;Strategy,2016-10-31,1
+Nudity;Gore;Adventure;Casual;Indie,2016-11-03,1
+"Accounting;Education;Software Training;Utilities;Early Access",2016-12-05,1
+Violent;Gore;Action;Adventure;Strategy,2016-12-16,1
+Casual;Racing;Sports,2016-12-16,1
+"Indie;Massively Multiplayer;Racing;Simulation;Sports",2016-11-24,1
+"Action;Adventure;Indie;RPG;Sports;Strategy;Early Access",2016-12-21,1
+"Violent;Action;Adventure;Indie;Strategy;Early Access",2016-11-15,1
+"Action;Free to Play;Indie;Massively Multiplayer;RPG",2016-11-22,1
+Action;Adventure;Indie;Racing;Simulation,2016-11-17,1
+"Action;Casual;Indie;Simulation;Strategy;Early Access",2016-12-09,1
+"Gore;Action;Indie;RPG;Early Access",2016-11-24,1
+Violent;Gore;Adventure;Indie;RPG,2016-11-21,1
+Violent;Action;Adventure;RPG,2016-12-02,1
+Nudity;Violent;Gore;Adventure;Casual;Simulation,2016-12-09,1
+"Free to Play;Indie;Massively Multiplayer;Simulation",2016-11-29,1
+"Violent;Free to Play;Indie;Strategy;Early Access",2016-12-22,1
+"Free to Play;RPG;Early Access",2016-12-23,1
+"Sexual Content;Nudity;Action;Casual;Indie;RPG;Simulation;Strategy",2016-11-18,1
+"Action;Casual;Simulation;Sports;Early Access",2016-12-22,1
+Action;Adventure;RPG;Strategy,2016-11-25,1
+"Violent;Gore;Action;Casual;Indie;Early Access",2016-12-01,1
+"Action;Casual;Indie;Massively Multiplayer;Simulation;Sports",2016-11-30,1
+Violent;Action;Adventure;Indie;RPG,2016-12-08,1
+Violent;Action;Adventure;Simulation,2016-12-05,1
+"Casual;Free to Play;Indie;Racing;Simulation;Early Access",2016-12-21,1
+"Sexual Content;Casual",2016-12-19,1
+"Adventure;Free to Play;Indie;Early Access",2016-12-18,1
+Indie;Racing;RPG;Simulation,2016-12-16,1
+Violent;Gore;Action;Casual;Strategy,2016-12-21,1
+"Sexual Content;Violent;Gore;Adventure;Indie",2016-12-20,1
+"Sexual Content;Violent;Gore;Adventure;Indie;Early Access",2016-12-20,1
+Nudity;Violent;Gore;Action;Indie,2016-12-21,1
+"Sexual Content;Casual;Free to Play;Indie",2016-12-20,1
