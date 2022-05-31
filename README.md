@@ -83,7 +83,49 @@
  ![Logo do Markdown](carol/imgs/ratings.PNG)
  ###### Graphics
  ![Logo do Markdown](carol/imgs/ratings.graph.PNG)
+
+ ##### **What is the average price of the games ?**
+
+```
+   SELECT FORMAT(AVG(price),2) 
+   FROM streamdb.`steam  - steam2014_2016_complete` ;
+
+ ```
+ ###### Result Return
+ ![Logo do Markdown](img/Screenshot_1.png)
+ ###### Graphics
+ 
 </details>
+
+***
+
+
+### DER
+<a id="ancoraDER"></a>
+ ![Logo do Markdown](carol/imgs/SteamDiagram.PNG)
+
+
+
+***
+### Task
+<a id="ancoraTask"></a>
+/*:white_check_mark:*/ :x:
+
+
+ | Questions           | Carol              | Isadora | Lorrane            | Thais | Wenderson          |
+ | ------------------- | ------------------ | ------- | ------------------ | ----- | ------------------ |
+ | `Create questions`  | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :white_check_mark: |
+ | ` Create Query `    | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :white_check_mark: |
+ | `Presentation Soft` | :white_check_mark: | :x:     | :x:                | :x:   | :x:                |
+ | `Presentation Tech` | :x:                | :x:     | :x:                | :x:   | :x:                |
+ | `Model Markdown`    | :x:                | :x:     | :x:                | :x:   | :x:                |
+ | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:   | :x:                |
+ | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :x:   | :x:                |
+
+***
+### Documentacion
+<a id="ancoraDoc"></a>
+***
 ### Team :
 <a id="ancoraTeam"></a>
 
@@ -92,27 +134,3 @@
 ***Thais Cristina da Silva Viviurka***
 ***Lorrane Rocha da Silva***
 ***Wenderson Patrick***
-***
-### Task
-<a id="ancoraTask"></a>
-/*:white_check_mark:*/ :x:
-
-
- | Questions           | Carol              | Isadora | Lorrane            | Thais | Wenderson |
- | ------------------- | ------------------ | ------- | ------------------ | ----- | --------- |
- | `Create questions`  | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :x:       |
- | ` Create Query `    | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :x:       |
- | `Presentation Soft` | :white_check_mark: | :x:     | :x:                | :x:   | :x:       |
- | `Presentation Tech` | :x:                | :x:     | :x:                | :x:   | :x:       |
- | `Model Markdown`    | :x:                | :x:     | :x:                | :x:   | :x:       |
- | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:   | :x:       |
- | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :x:   | :x:       |
-
-***
-### DER
-<a id="ancoraDER"></a>
-
-### Documentacion
-<a id="ancoraDoc"></a>
-
-
