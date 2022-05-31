@@ -16,7 +16,10 @@
  ## Questions and Solution
 <a id="ancoraQuestion"></a>
 
-##### **What is the most released genre per year?**
+
+<details open>
+
+##### What is the most released genre per year?**
 ```
     SELECT DISTINCT genres, Year(release_date), COUNT(genres)
     FROM `steam  - steam2014_2016_complete`
@@ -80,7 +83,7 @@
  ![Logo do Markdown](carol/imgs/ratings.PNG)
  ###### Graphics
  ![Logo do Markdown](carol/imgs/ratings.graph.PNG)
-
+</details>
 ### Team :
 <a id="ancoraTeam"></a>
 
@@ -95,15 +98,15 @@
 /*:white_check_mark:*/ :x:
 
 
- | Questions           | Carol              | Isadora | Lorrane            | Thais              | Wenderson |
- | ------------------- | ------------------ | ------- | ------------------ | ------------------ | --------- |
- | `Create questions`  | :white_check_mark: | :x:     | :white_check_mark: | :x:                | :x:       |
- | ` Create Query `    | :white_check_mark: | :x:     | :white_check_mark: | :x:                | :x:       |
- | `Presentation Soft` | :white_check_mark: | :x:     | :x:                | :x:                | :x:       |
- | `Presentation Tech` | :x:                | :x:     | :x:                | :x:                | :x:       |
- | `Model Markdown`    | :x:                | :x:     | :x:                | :x:                | :x:       |
- | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:                | :x:       |
- | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :white_check_mark: | :x:       |
+ | Questions           | Carol              | Isadora | Lorrane            | Thais | Wenderson |
+ | ------------------- | ------------------ | ------- | ------------------ | ----- | --------- |
+ | `Create questions`  | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :x:       |
+ | ` Create Query `    | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :x:       |
+ | `Presentation Soft` | :white_check_mark: | :x:     | :x:                | :x:   | :x:       |
+ | `Presentation Tech` | :x:                | :x:     | :x:                | :x:   | :x:       |
+ | `Model Markdown`    | :x:                | :x:     | :x:                | :x:   | :x:       |
+ | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:   | :x:       |
+ | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :x:   | :x:       |
 
 ***
 ### DER
