@@ -1,0 +1,173 @@
+genres,release_date,count(genres)
+Action;Indie,2014-02-24,79
+Adventure;Casual,2014-03-06,61
+Adventure,2014-04-30,57
+Action,2014-04-04,55
+Adventure;Indie,2014-06-05,53
+Action;Adventure;Indie,2014-07-15,43
+Casual,2014-02-20,39
+Action;Adventure,2014-02-25,36
+Strategy,2014-09-22,35
+Indie,2014-04-01,29
+Indie;Strategy,2014-04-11,25
+Adventure;Casual;Indie,2014-05-28,25
+Simulation,2014-05-30,25
+Action;Casual;Indie,2014-04-25,24
+Simulation;Strategy,2014-05-22,22
+Casual;Indie,2014-12-12,19
+Adventure;Indie;RPG,2014-03-14,18
+Indie;RPG,2014-10-17,17
+RPG,2014-03-13,16
+Action;Adventure;Casual;Indie,2014-05-16,14
+Casual;Indie;Strategy,2014-05-29,14
+Casual;Indie;Simulation;Strategy,2014-06-06,12
+Action;Indie;Strategy,2014-06-13,11
+Action;Adventure;Indie;RPG,2014-03-05,10
+Indie;RPG;Strategy,2014-05-05,10
+Casual;Indie;Simulation,2014-05-02,9
+Action;Indie;RPG,2014-06-16,9
+Indie;Simulation,2014-08-21,9
+Adventure;Casual;Indie;RPG,2014-04-18,8
+Action;Indie;Racing,2014-03-19,8
+Racing,2014-04-24,8
+Action;Simulation,2014-03-10,8
+RPG;Strategy,2014-09-18,8
+Indie;Simulation;Strategy,2014-03-27,7
+Action;Racing,2014-03-12,7
+Casual;Strategy,2014-04-23,6
+Sports,2014-03-28,5
+Action;Strategy,2014-04-18,5
+Action;Casual;Indie;Strategy,2014-04-28,5
+"Action;Indie;Early Access",2014-06-16,5
+"Indie;Simulation;Strategy;Early Access",2014-09-11,4
+Action;Adventure;RPG,2014-04-17,4
+Casual;Simulation;Strategy,2014-03-25,4
+Action;Adventure;Casual;Indie;RPG,2014-05-15,4
+Adventure;Casual;Indie;RPG;Strategy,2014-03-17,4
+Action;Casual,2014-06-06,4
+Action;RPG,2014-04-23,4
+Action;Adventure;Simulation,2014-04-16,4
+"Action;Adventure;Free to Play;Indie",2014-09-26,4
+Adventure;Simulation,2014-10-09,4
+Adventure;Indie;RPG;Simulation,2014-03-04,3
+Casual;RPG,2014-02-21,3
+Casual;Indie;RPG;Simulation,2014-07-02,3
+Adventure;Indie;Simulation,2014-11-14,3
+Adventure;Indie;RPG;Strategy,2014-12-09,3
+Casual;Racing,2014-04-23,3
+Indie;RPG;Simulation;Strategy,2014-04-11,3
+Adventure;Indie;Strategy,2014-08-05,3
+Adventure;Casual;Strategy,2014-04-29,3
+Action;Adventure;Racing,2014-10-06,3
+Adventure;Casual;Simulation,2014-07-25,3
+Action;RPG;Strategy,2014-04-23,2
+Action;Casual;Strategy,2014-04-23,2
+Casual;Simulation,2014-04-11,2
+Action;Simulation;Strategy,2014-04-16,2
+"Design & Illustration;Utilities",2014-05-23,2
+"Free to Play;Massively Multiplayer;RPG",2014-08-06,2
+"Indie;Massively Multiplayer;RPG;Early Access",2014-12-29,2
+"Action;Free to Play;Indie;Early Access",2014-05-21,2
+Casual;Sports,2014-05-30,2
+Adventure;Casual;RPG,2014-05-21,2
+Simulation;Sports;Strategy,2014-11-19,2
+"Action;Adventure;Indie;Early Access",2014-07-25,2
+"Action;Free to Play;Indie",2014-10-23,2
+Racing;Simulation;Sports,2014-11-21,2
+Adventure;RPG,2014-10-27,2
+"Adventure;Indie;Early Access",2014-11-21,2
+"Action;Free to Play",2014-12-11,2
+Indie;Sports,2014-12-19,1
+Action;Casual;Indie;Racing;Simulation,2014-05-16,1
+Casual;Indie;RPG,2014-12-04,1
+"Animation & Modeling;Design & Illustration;Photo Editing",2014-06-10,1
+Casual;Indie;Sports,2014-04-16,1
+"Casual;Indie;Strategy;Early Access",2014-04-02,1
+"Action;Indie;Massively Multiplayer;RPG;Early Access",2014-05-01,1
+"Adventure;Free to Play;Indie;RPG",2014-03-20,1
+Action;Casual;Indie;Simulation;Strategy,2014-06-06,1
+Action;Racing;RPG,2014-03-14,1
+"Education;Software Training;Utilities;Video Production",2014-05-27,1
+Adventure;Casual;Indie;RPG;Simulation,2014-05-30,1
+Action;RPG;Simulation,2014-05-22,1
+RPG;Simulation;Strategy,2014-04-30,1
+"Casual;Free to Play;Indie;Massively Multiplayer;Strategy",2014-09-16,1
+"Early Access",2014-08-11,1
+Action;Casual;Indie;Sports,2014-06-12,1
+"Action;Free to Play;Massively Multiplayer",2014-07-01,1
+Action;Adventure;RPG;Strategy,2014-09-18,1
+"Action;Adventure;Massively Multiplayer;Simulation;Early Access",2014-05-08,1
+"Adventure;Casual;Indie;RPG;Early Access",2014-12-15,1
+"Action;Free to Play;Indie;Massively Multiplayer;RPG",2014-08-04,1
+Action;Indie;Simulation;Strategy,2014-05-28,1
+Adventure;Indie;RPG;Simulation;Strategy,2014-11-10,1
+"Free to Play;Indie;Strategy",2014-12-05,1
+Action;Adventure;Casual,2014-07-16,1
+"Free to Play;Indie;Massively Multiplayer;Racing;RPG;Strategy",2014-08-22,1
+Casual;Indie;Racing,2014-05-08,1
+Action;Indie;Simulation;Sports,2014-05-28,1
+Indie;Simulation;Sports,2014-07-29,1
+"Casual;Free to Play;Indie;RPG;Strategy",2014-05-05,1
+"Action;Indie;Sports;Early Access",2014-11-18,1
+Racing;Simulation;Sports;Strategy,2014-06-13,1
+"Casual;Free to Play;Indie;Massively Multiplayer;RPG",2014-11-05,1
+"Adventure;Free to Play;Indie",2014-07-25,1
+Action;Indie;Racing;Simulation,2014-06-06,1
+Action;Indie;Simulation,2014-08-07,1
+Violent;Gore;Action;Indie;Strategy,2014-12-05,1
+"Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy",2014-08-15,1
+Casual;Simulation;Sports,2014-07-31,1
+"Design & Illustration;Photo Editing",2014-09-01,1
+Action;Adventure;Casual;Indie;Simulation;Strategy,2014-05-16,1
+"Casual;Free to Play;Indie",2014-06-06,1
+Action;Adventure;Indie;RPG;Simulation;Strategy,2014-12-16,1
+"Action;Casual;Free to Play;Indie;Massively Multiplayer;Early Access",2014-07-16,1
+"Action;Free to Play;Early Access",2014-12-19,1
+Adventure;Strategy,2014-11-27,1
+"Free to Play;Simulation;Strategy",2014-08-06,1
+Adventure;Casual;Indie;Simulation,2014-07-17,1
+"Action;Indie;RPG;Simulation;Early Access",2014-11-07,1
+"Adventure;Casual;Free to Play;Indie;RPG",2014-07-22,1
+"Action;Indie;Racing;Simulation;Sports;Early Access",2014-09-01,1
+Action;Adventure;Indie;Simulation,2014-08-04,1
+"Action;Indie;RPG;Early Access",2014-07-09,1
+"Action;Indie;Strategy;Early Access",2014-07-11,1
+"Free to Play;Indie;RPG;Strategy",2014-07-09,1
+"Sexual Content;Nudity;Indie",2014-07-09,1
+"Action;Adventure;Casual;Indie;Early Access",2014-12-01,1
+Indie;Sports;Strategy,2014-08-19,1
+"Casual;Indie;Early Access",2014-10-15,1
+Sports;Strategy,2014-10-02,1
+Action;Casual;Indie;Racing;Simulation;Sports,2014-12-04,1
+"Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer",2014-08-13,1
+"Casual;Free to Play;Indie;Strategy",2014-10-13,1
+Adventure;RPG;Strategy,2014-10-30,1
+"Action;Casual;Indie;Early Access",2014-09-30,1
+"Adventure;Casual;Free to Play;Indie;Simulation",2014-09-12,1
+"Action;Adventure;Indie;RPG;Early Access",2014-12-03,1
+Racing;Sports,2014-10-02,1
+Nudity;Indie,2014-09-25,1
+Adventure;Casual;Racing,2014-11-13,1
+"Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing",2014-11-21,1
+"Action;Indie;Racing;Simulation;Early Access",2014-11-14,1
+"Strategy;Early Access",2014-12-04,1
+Action;Simulation;Sports;Strategy,2014-11-14,1
+Action;Indie;RPG;Strategy,2014-11-12,1
+Action;Adventure;Strategy,2014-10-23,1
+"Adventure;Indie;RPG;Early Access",2014-12-15,1
+Action;Casual;Simulation;Sports;Strategy,2014-12-03,1
+"Free to Play;Indie;RPG",2014-10-22,1
+"Action;Adventure;Casual;Free to Play;RPG;Strategy",2014-11-20,1
+"Action;Indie;Simulation;Sports;Early Access",2014-12-04,1
+Adventure;Indie;Sports,2014-12-09,1
+"Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access",2014-11-20,1
+"Indie;Racing;Sports;Early Access",2014-10-29,1
+"Adventure;Casual;Free to Play;Indie",2014-11-19,1
+"Free to Play;Indie",2014-12-04,1
+"Adventure;Free to Play;Massively Multiplayer;RPG",2014-12-04,1
+"Animation & Modeling;Design & Illustration;Utilities",2014-11-14,1
+"Indie;RPG;Early Access",2014-12-29,1
+"Sexual Content;Nudity;Casual;Indie",2014-12-29,1
+Indie;Racing,2014-12-09,1
+"Action;Adventure;RPG;Early Access",2014-12-17,1
+"RPG;Early Access",2014-12-23,1
