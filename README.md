@@ -1,5 +1,3 @@
-    # Projeto Modulo 3
-
 ## Database  - Steam
 - [Questions](#ancoraQuestion)
   
@@ -10,8 +8,6 @@
 - [Task](#ancoraTask)
 
 - [Documentation](#ancoraDoc)
-  
-
 
 ***
 ![Logo do Markdown](img/store_home_share.jpg)
