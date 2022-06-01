@@ -8,7 +8,7 @@
 - [Task](#ancoraTask)
 
 - [Documentation](#ancoraDoc)
-
+  
 ***
 ![Logo do Markdown](img/store_home_share.jpg)
 ***
@@ -28,8 +28,9 @@
     ORDER BY COUNT(genres) desc 
  ```
  ###### Result Return
+ ![Logo do Markdown](lorrane/img/2016%20-%20gen%20mais%20la%C3%A7ado%20por%20ano.png)
  ###### Graphics
-
+![Logo do Markdown](carol/graficos-lor/2016.PNG)
  ***
  
 ##### **How are the games ranked by playtime?**
@@ -40,9 +41,10 @@
     WHERE  average_playtime  between 300 and 1000
     ORDER BY average_playtime desc
  ```
- ###### Result Return
+  ###### Result Return
+ ![Logo do Markdown](lorrane/img/playtime.img.png)
  ###### Graphics
-
+![Logo do Markdown](carol/graficos-lor/playtime.PNG)
  
 ##### **How are games divided by age restrictions?**
 
@@ -94,6 +96,7 @@
  ###### Result Return
  ![Logo do Markdown](img/Screenshot_1.png)
  ###### Graphics
+  ![Logo do Markdown](img/Screenshot_2.png)
  
 </details>
 
@@ -118,19 +121,22 @@
  | ` Create Query `    | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :white_check_mark: |
  | `Presentation Soft` | :white_check_mark: | :x:     | :x:                | :x:   | :x:                |
  | `Presentation Tech` | :x:                | :x:     | :x:                | :x:   | :x:                |
- | `Model Markdown`    | :x:                | :x:     | :x:                | :x:   | :x:                |
- | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:   | :x:                |
- | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :x:   | :x:                |
+ | `Model Markdown`    | :x:                | :x:     | :x:                | :x:   | :white_check_mark: |
+ | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:   | :white_check_mark: |
+ | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :x:   | :white_check_mark: |
 
 ***
 ### Documentacion
 <a id="ancoraDoc"></a>
+- [Mysql](https://dev.mysql.com/doc/)
+- [Steam](https://store.steampowered.com/)
+
 ***
 ### Team :
 <a id="ancoraTeam"></a>
 
-***Carolina Santos Marcello***
-***Isadora Xavier R Silva***
-***Thais Cristina da Silva Viviurka***
-***Lorrane Rocha da Silva***
-***Wenderson Patrick***
+- ***Carolina Santos Marcello*** ( Colaboradora)
+- ***Isadora Xavier R Silva*** ( Colaboradora)
+- ***Thais Cristina da Silva Viviurka***(Gestão de gente)
+- ***Lorrane Rocha da Silva*** (Co-facilitadora)
+- ***Wenderson Patrick*** (Gestor de conhecimento)
