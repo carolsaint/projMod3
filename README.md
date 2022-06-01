@@ -115,15 +115,15 @@
 /*:white_check_mark:*/ :x:
 
 
- | Questions           | Carol              | Isadora | Lorrane            | Thais | Wenderson          |
- | ------------------- | ------------------ | ------- | ------------------ | ----- | ------------------ |
- | `Create questions`  | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :white_check_mark: |
- | ` Create Query `    | :white_check_mark: | :x:     | :white_check_mark: | :x:   | :white_check_mark: |
- | `Presentation Soft` | :white_check_mark: | :x:     | :x:                | :x:   | :x:                |
- | `Presentation Tech` | :x:                | :x:     | :x:                | :x:   | :x:                |
- | `Model Markdown`    | :x:                | :x:     | :x:                | :x:   | :white_check_mark: |
- | ` Conflict Git `    | :x:                | :x:     | :x:                | :x:   | :white_check_mark: |
- | ` Graphics `        | :white_check_mark: | :x:     | :x:                | :x:   | :white_check_mark: |
+ | Questions           | Carol              | Isadora            | Lorrane            | Thais              | Wenderson          |
+ | ------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+ | `Create questions`  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+ | ` Create Query `    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+ | `Presentation Soft` | :white_check_mark: | :x:                | :white_check_mark: | :x:                | :x:                |
+ | `Presentation Tech` | :x:                | :white_check_mark: | :x:                | :white_check_mark: | :x:                |
+ | `Model Markdown`    | :x:                | :x:                | :x:                | :x:                | :white_check_mark: |
+ | ` Conflict Git `    | :x:                | :x:                | :x:                | :x:                | :white_check_mark: |
+ | ` Graphics `        | :white_check_mark: | :x:                | :x:                | :x:                | :white_check_mark: |
 
 ***
 ### Documentacion
