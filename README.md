@@ -28,7 +28,7 @@
     ORDER BY COUNT(genres) desc 
  ```
  ###### Result Return
- ![Logo do Markdown](lorrane/img/2016%20-%20gen%20mais%20la%C3%A7ado%20por%20ano.png)
+ ![Logo do Markdown](lorrane/img/2016.png)
  ###### Graphics
 ![Logo do Markdown](carol/graficos-lor/2016.PNG)
  ***
