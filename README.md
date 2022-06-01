@@ -28,7 +28,7 @@
     ORDER BY COUNT(genres) desc 
  ```
  ###### Result Return
- ![Logo do Markdown](lorrane/img/2016.png)
+ ![Logo do Markdown](Lorrane/img/2016.png)
  ###### Graphics
 ![Logo do Markdown](carol/graficos-lor/2016.PNG)
  ***
@@ -42,7 +42,7 @@
     ORDER BY average_playtime desc
  ```
   ###### Result Return
- ![Logo do Markdown](lorrane/img/playtime.img.png)
+ ![Logo do Markdown](Lorrane/img/playtime.img.png)
  ###### Graphics
 ![Logo do Markdown](carol/graficos-lor/playtime.PNG)
  
